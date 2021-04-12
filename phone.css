@@ -1,0 +1,25 @@
+.col{
+  margin-bottom: 30px;
+  margin-left: -3px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 2px;
+}
+.hero{
+  background: black;
+}
+
+h1{
+  margin-left: 0px;
+}
+.one img{
+height: 200px;
+}
+
+.two img{
+height: 200px;
+}
+
+.three img{
+height: 200px;
+}
